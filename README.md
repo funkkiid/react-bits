@@ -1,8 +1,6 @@
 # [React Bits](https://vasanthk.gitbooks.io/react-bits)
 
-> 原文：[React Bits](https://github.com/vasanthk/react-bits)
-
-> 作者：[vasanthk](https://github.com/vasanthk)
+> 本开源书 forked from [React Bits](https://github.com/vasanthk/react-bits)，作者为 [vasanthk](https://github.com/vasanthk)，欢迎大家 star 原作者的 [repo](https://github.com/vasanthk/react-bits)，以便获得最新更新，谢谢！
 
 A compilation of React Patterns, techniques, tips and tricks.
 
