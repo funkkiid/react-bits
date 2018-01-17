@@ -1,5 +1,9 @@
 # [React Bits](https://vasanthk.gitbooks.io/react-bits)
 
+> 原文：[React Bits](https://github.com/vasanthk/react-bits)
+
+> 作者：[vasanthk](https://github.com/vasanthk)
+
 A compilation of React Patterns, techniques, tips and tricks.
 
 **Gitbook format**: https://vasanthk.gitbooks.io/react-bits
