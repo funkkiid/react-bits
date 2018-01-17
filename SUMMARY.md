@@ -1,6 +1,7 @@
 # React Bits
 ✨ React patterns, techniques, tips and tricks ✨
 
+- [Introduction](README.md)
 - Design Patterns and Techniques
   - [Conditional in JSX](./patterns/18.conditionals-in-jsx.md)
   - [Async Nature Of setState()](./patterns/19.async-nature-of-setState.md)
